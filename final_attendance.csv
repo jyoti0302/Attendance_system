@@ -1,0 +1,9 @@
+Name,Emotion,Time,Status
+001_Amir_khan,-,-,Absent
+002_Tony_Stark,-,-,Absent
+003_Steve_Rogers,-,-,Absent
+004_Natasha,-,-,Absent
+005_Thor,neutral; neutral,17:44:15; 17:44:16,Present
+006_Loki,-,-,Absent
+007_Wanda,neutral; neutral; neutral; neutral; neutral,17:44:17; 17:44:17; 17:44:18; 17:44:19; 17:44:20,Present
+008_Peter,neutral; neutral,17:44:16; 17:44:19,Present
