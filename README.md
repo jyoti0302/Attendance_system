@@ -12,17 +12,6 @@ Works within a specified time window.
 
 Provides a simple GUI to control the system.
 
-📂 Project Structure
-
-AttendanceSystem/
-├── cleaned_data/                                       # Folder with student face images (subfolders per student)
-├── emotion_dataset/                                    # Folder with emotion images (FER-2013 formatted)
-├── face_model.h5                                       # Trained face recognition model
-├── emotion_model.h5                                    # Trained emotion detection model
-├── final_attendance.csv                                # Output CSV (attendance + emotions + timestamps)
-├── gui_attendance_emotion_system.py                    # Main Python script (with GUI)
-├── requirements.txt                                    # Required Python packages
-└── README.md                                           # Project documentation
 
 
 🚀 Features
@@ -38,3 +27,14 @@ AttendanceSystem/
 
 ✅ User-friendly GUI to start, stop, and view attendance.
 
+Face Model:
+https://drive.google.com/file/d/1kspjxTgmh9b7-YVvQqiRZo-xf_8wXsAE/view?usp=sharing
+
+Face Model Weights:
+https://drive.google.com/file/d/1Y4aFsSpaNCeHtsLenUKQ_1meOAWrZxfm/view?usp=sharing
+
+Emotion Model:
+https://drive.google.com/file/d/1zEIzMiy_cgVSjboGjRIFaVmXfZRTaSjo/view?usp=sharing
+
+Emotion Model Weights:
+https://drive.google.com/file/d/1vuer3LheGJGj7dlHsJuJwtvhdah9lyoN/view?usp=sharing
