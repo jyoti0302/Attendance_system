@@ -44,7 +44,7 @@ To balance the number of images per class, data augmentation techniques were app
 
 Final Dataset:
 The cleaned and balanced dataset is available here:
-https://drive.google.com/drive/u/0/folders/1y7hkfjfcmLMAGrCbOqvOtqVYIlodWybs
+https://drive.google.com/drive/folders/1y7hkfjfcmLMAGrCbOqvOtqVYIlodWybs?usp=sharing
 
 🔹 Emotion Detection Model:
 
