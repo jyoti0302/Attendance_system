@@ -14,6 +14,7 @@ Provides a simple GUI to control the system.
 
 
 
+
 🚀 Features
 
 ✅ Real-time face detection and recognition.
