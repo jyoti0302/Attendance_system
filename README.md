@@ -29,6 +29,34 @@ Provides a simple GUI to control the system.
 
 ✅ User-friendly GUI to start, stop, and view attendance.
 
+📂 Dataset
+
+🔹 Face Recognition Model:
+
+Image Collection:
+Images were downloaded using the bing_image_downloader library by providing search queries for each student/class label.
+
+Preprocessing:
+Images were preprocessed using the image_preprocessing script to ensure uniform size, proper format, and quality for model training.
+
+Balancing the Dataset:
+To balance the number of images per class, data augmentation techniques were applied using the augmentation script.
+
+Final Dataset:
+The cleaned and balanced dataset is available here:
+https://drive.google.com/drive/u/0/folders/1y7hkfjfcmLMAGrCbOqvOtqVYIlodWybs
+
+🔹 Emotion Detection Model:
+
+Dataset Source:
+The FER 2013 dataset was downloaded from Kaggle.
+
+Storage Path:
+It is stored in the emotion_dataset folder for model training.
+
+Dataset Link:
+https://www.kaggle.com/datasets/msambare/fer2013
+
 Face Model:
 https://drive.google.com/file/d/1kspjxTgmh9b7-YVvQqiRZo-xf_8wXsAE/view?usp=sharing
 
